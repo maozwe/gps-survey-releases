@@ -1,0 +1,14 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "releasedAt": "2026-09-06",
+  "minSdk": 26,
+  "apkUrl": "https://github.com/maozwe/gps-survey-releases/releases/download/v0.1.0/gps-survey-0.1.0.apk",
+  "sizeBytes": 0,
+  "sha256": "",
+  "mandatory": false,
+  "notes": {
+    "en": "First field-trial build. Not yet validated against real GNSS hardware - read the field-test protocol before trusting a coordinate from this build.",
+    "he": "גרסת ניסוי שטח ראשונה. טרם נבדקה מול מקלט GNSS אמיתי - קראו את פרוטוקול בדיקת השטח לפני שתסתמכו על קואורדינטה מהגרסה הזו."
+  }
+}
