@@ -5,6 +5,20 @@ Release builds of **GPS Survey**, an Android GNSS land-survey app for Israel.
 This repository holds only the shipped artifacts and the manifest the app reads when you
 tap **Check for update**. The source lives elsewhere.
 
+## This app needs an activation code
+
+**Downloading and installing it is not enough to survey with it.** Measuring a point and
+connecting a GNSS receiver require an activation code tied to the specific device. Everything
+else works without one: the app opens, projects and points are viewable, and import and export
+run normally — so a surveyor whose code has not arrived yet is never locked away from data they
+already collected.
+
+To get a code: install the app, tap Measure, and the activation screen shows a **Device ID**
+with a copy button. Send that ID to the developer and you get a code back. Paste it in, or load
+it from a `.key` file.
+
+A factory reset changes the device ID, so a reset device needs a new code.
+
 ## Install
 
 Download the latest `.apk` from [Releases](../../releases/latest) and open it on the phone.
