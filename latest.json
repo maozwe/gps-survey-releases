@@ -1,14 +1,14 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "releasedAt": "2026-09-06",
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "releasedAt": "2026-09-08",
   "minSdk": 26,
-  "apkUrl": "https://github.com/maozwe/gps-survey-releases/releases/download/v0.1.0/gps-survey-0.1.0.apk",
-  "sizeBytes": 0,
-  "sha256": "",
+  "apkUrl": "https://github.com/maozwe/gps-survey-releases/releases/download/v0.2.0/gps-survey-0.2.0.apk",
+  "sizeBytes": 53817358,
+  "sha256": "f4144f1f058189808285480dcb37758c8da63b61305e9ddd92c8baeb11a12965",
   "mandatory": false,
   "notes": {
-    "en": "First field-trial build. Not yet validated against real GNSS hardware - read the field-test protocol before trusting a coordinate from this build.",
-    "he": "גרסת ניסוי שטח ראשונה. טרם נבדקה מול מקלט GNSS אמיתי - קראו את פרוטוקול בדיקת השטח לפני שתסתמכו על קואורדינטה מהגרסה הזו."
+    "en": "Requires an activation code to measure; everything else works without one. Fixes four things that did not work in 0.1.0: heights were ellipsoidal (~18.8 m out), connecting a receiver crashed the app, a survey session could not be started at all, and the map never showed project data. Offline map area selection is now draggable. Still never tested against a real GNSS receiver.",
+    "he": "נדרש קוד הפעלה למדידה; כל השאר עובד בלעדיו. מתקנת ארבעה דברים שלא עבדו ב-0.1.0: הגבהים היו אליפסואידיים (סטייה של כ-18.8 מ׳), חיבור למקלט הפיל את האפליקציה, לא ניתן היה להתחיל סשן מדידה כלל, והמפה לא הציגה נתוני פרויקט. בחירת אזור להורדה לא מקוונת נגררת עכשיו. טרם נבדקה מול מקלט GNSS אמיתי."
   }
 }
