@@ -1,14 +1,14 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.1",
-  "releasedAt": "2026-09-28",
+  "versionCode": 4,
+  "versionName": "0.3.0",
+  "releasedAt": "2026-10-01",
   "minSdk": 26,
-  "apkUrl": "https://github.com/maozwe/gps-survey-releases/releases/download/v0.2.1/gps-survey-0.2.1.apk",
-  "sizeBytes": 53817882,
-  "sha256": "c7cc52adf8fceadd4924254e7250069526d19e79ca3ccd40cbd2ea4d4362f3a1",
+  "apkUrl": "https://github.com/maozwe/gps-survey-releases/releases/download/v0.3.0/gps-survey-0.3.0.apk",
+  "sizeBytes": 54324382,
+  "sha256": "b7deab48bd15f81d4c7ef27fae868959b1a56c2698879dbcdfe93ead165812b7",
   "mandatory": false,
   "notes": {
-    "en": "Fixes a false \"connection could not start\" error on a fresh install, and Bluetooth receivers not being listed (the Bluetooth permission is now requested in the new-profile dialog). The side menu now shows the installed version and an update-available badge.",
-    "he": "מתקנת הודעת שגיאה שגויה \"חיבור המקלט לא הצליח להתחיל\" בהתקנה חדשה, ואת זה שמקלטי Bluetooth לא הופיעו ברשימה (הרשאת Bluetooth מתבקשת עכשיו בחלון יצירת פרופיל). תפריט הצד מציג עכשיו את הגרסה המותקנת וסימון כשיש עדכון."
+    "en": "Calibration fit and apply with discrepancy checks, polygon-point import from DXF/CSV, robust averaging, daily and pre-update backups, project folders, NTRIP mountpoint failover, LandXML surfaces.",
+    "he": "כיול עם התאמה ובדיקת סטיות, ייבוא נקודות פוליגון מ-DXF/CSV, מיצוע חסין, גיבויים יומיים ולפני עדכון, תיקיות פרויקטים, מעבר אוטומטי בין נקודות NTRIP, משטחי LandXML."
   }
 }
