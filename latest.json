@@ -1,14 +1,14 @@
 {
-  "versionCode": 106,
-  "versionName": "0.3.106",
+  "versionCode": 107,
+  "versionName": "0.3.107",
   "releasedAt": "2026-10-02",
   "minSdk": 26,
-  "apkUrl": "https://github.com/maozwe/gps-survey-releases/releases/download/v0.3.106/gps-survey-0.3.106.apk",
+  "apkUrl": "https://github.com/maozwe/gps-survey-releases/releases/download/v0.3.107/gps-survey-0.3.107.apk",
   "sizeBytes": 54345666,
-  "sha256": "507adefa98b25f1d98cdaa756f0913f87e5c840c966a8d87b5d262b65a776810",
+  "sha256": "60793b1177fb4545e9edb2dfbd2adedc3a1443b0fe47d884d34fde42275bfa65",
   "mandatory": false,
   "notes": {
-    "en": "Merge task/map-drawer-gestures: map pans and pinch-zooms no longer open the drawer",
-    "he": "Merge task/map-drawer-gestures: map pans and pinch-zooms no longer open the drawer"
+    "en": "Merge task/map-smooth-gestures: simultaneous pinch/twist/pan, live compass and scale bar",
+    "he": "Merge task/map-smooth-gestures: simultaneous pinch/twist/pan, live compass and scale bar"
   }
 }
