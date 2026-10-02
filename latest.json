@@ -1,14 +1,14 @@
 {
-  "versionCode": 104,
-  "versionName": "0.3.104",
+  "versionCode": 105,
+  "versionName": "0.3.105",
   "releasedAt": "2026-10-02",
   "minSdk": 26,
-  "apkUrl": "https://github.com/maozwe/gps-survey-releases/releases/download/v0.3.104/gps-survey-0.3.104.apk",
-  "sizeBytes": 54328394,
-  "sha256": "733ef2fed1360157ae671a4b27b67a0bd09a098d1e4552eaca21fa8e841485ab",
+  "apkUrl": "https://github.com/maozwe/gps-survey-releases/releases/download/v0.3.105/gps-survey-0.3.105.apk",
+  "sizeBytes": 54345666,
+  "sha256": "fc059ca288092b90320857205ee837632d454137dedb99cfc8ecfbaacca825d9",
   "mandatory": false,
   "notes": {
-    "en": "Merge task/map-chrome-contrast: legible map chrome and sky plot, always-visible Update button, background update notifications",
-    "he": "Merge task/map-chrome-contrast: legible map chrome and sky plot, always-visible Update button, background update notifications"
+    "en": "Merge task/mzx-bom-lint: escape the BOM in MzxCodec (lint)",
+    "he": "Merge task/mzx-bom-lint: escape the BOM in MzxCodec (lint)"
   }
 }
