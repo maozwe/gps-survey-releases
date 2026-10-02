@@ -1,14 +1,14 @@
 {
-  "versionCode": 103,
-  "versionName": "0.3.103",
-  "releasedAt": "2026-10-01",
+  "versionCode": 104,
+  "versionName": "0.3.104",
+  "releasedAt": "2026-10-02",
   "minSdk": 26,
-  "apkUrl": "https://github.com/maozwe/gps-survey-releases/releases/download/v0.3.103/gps-survey-0.3.103.apk",
-  "sizeBytes": 54326974,
-  "sha256": "78db609b51dea4235d0976a12a39d147d3d9a437e20f02af8e71b603a845949e",
+  "apkUrl": "https://github.com/maozwe/gps-survey-releases/releases/download/v0.3.104/gps-survey-0.3.104.apk",
+  "sizeBytes": 54328394,
+  "sha256": "733ef2fed1360157ae671a4b27b67a0bd09a098d1e4552eaca21fa8e841485ab",
   "mandatory": false,
   "notes": {
-    "en": "Merge task/cardinal-legs: north/south and east/west legs in the stake-out navigation view",
-    "he": "Merge task/cardinal-legs: north/south and east/west legs in the stake-out navigation view"
+    "en": "Merge task/map-chrome-contrast: legible map chrome and sky plot, always-visible Update button, background update notifications",
+    "he": "Merge task/map-chrome-contrast: legible map chrome and sky plot, always-visible Update button, background update notifications"
   }
 }
