@@ -1,14 +1,14 @@
 {
-  "versionCode": 107,
-  "versionName": "0.3.107",
-  "releasedAt": "2026-10-02",
+  "versionCode": 108,
+  "versionName": "0.3.108",
+  "releasedAt": "2026-10-03",
   "minSdk": 26,
-  "apkUrl": "https://github.com/maozwe/gps-survey-releases/releases/download/v0.3.107/gps-survey-0.3.107.apk",
+  "apkUrl": "https://github.com/maozwe/gps-survey-releases/releases/download/v0.3.108/gps-survey-0.3.108.apk",
   "sizeBytes": 54345666,
-  "sha256": "60793b1177fb4545e9edb2dfbd2adedc3a1443b0fe47d884d34fde42275bfa65",
+  "sha256": "b824f45d85f03dcfe86246de261fd402390664fbe980e84ad1e1c7b0b95071bf",
   "mandatory": false,
   "notes": {
-    "en": "Merge task/map-smooth-gestures: simultaneous pinch/twist/pan, live compass and scale bar",
-    "he": "Merge task/map-smooth-gestures: simultaneous pinch/twist/pan, live compass and scale bar"
+    "en": "Merge task/drawer-release-fix: drawer swipe off on the map in release builds (R8-safe route matching)",
+    "he": "Merge task/drawer-release-fix: drawer swipe off on the map in release builds (R8-safe route matching)"
   }
 }
